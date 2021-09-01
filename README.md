@@ -1,4 +1,4 @@
-# Initial page
+# SQL전문가 가이드
 
 ## Getting Super Powers
 
