@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SQL전문가 가이드](README.md)
 
-## group1한글
+## 과목1 데이터모델의 이해 <a id="group1"></a>
 
-* [한글](group1/whatisslug.md)
-* [한글2](group1/2.md)
+* [제1장](group1/whatisslug.md)
+* [제2장](group1/2.md)
 
----
+## 과목2 데이터
 
-* [Untitled](untitled.md)
+* [Untitled](2/untitled.md)
 

@@ -1,8 +1,8 @@
 ---
-description: test2
+description: 제1절
 ---
 
-# 한글
+# 제1장
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
