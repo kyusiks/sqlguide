@@ -2,7 +2,7 @@
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
-Get Cakes
+Get Cakesxxxxxx
 {% endapi-method-summary %}
 
 {% api-method-description %}
