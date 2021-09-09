@@ -1,6 +1,6 @@
 # Summary
 
-* [SQL전문가 가이드](chapter/README.md)
+* [SQL전문가 가이드](README.md)
 * 과목1 데이터모델의 이해
     * 제1장 데이터 모델링의 이해
         * [1-1-1. 데이터 모델의 이해](chapter/1-1-1-데이터-모델의-이해.md)
