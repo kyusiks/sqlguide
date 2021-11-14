@@ -546,6 +546,5 @@ DECODE 함수를 사용함으로써 SQL 문장이 조금 더 짧아졌다. CASE 
 >###### 1 개의 행이 선택되었습니다.
 >
 
-
-
-> 출처 : 한국데이터산업진흥원 데이터온에어([https://dataonair.or.kr](https://dataonair.or.kr))
+<br><br><br>
+> 출처 : 데이터온에어 – 한국데이터산업진흥원([https://dataonair.or.kr](https://dataonair.or.kr))

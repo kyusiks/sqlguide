@@ -365,6 +365,5 @@ GROUP BY 절을 사용하게 되면 그룹핑 기준에 사용된 칼럼과 집�
 ###### [실행 결과]
 SELECT SQL에서 GROUP BY 절이 사용되었기 때문에 SELECT 절에 정의하지 않은 MAX, SUM, COUNT 집계 함수도 ORDER BY 절에서 사용할 수 있는 것을 실행 결과에서 확인할 수 있다.<br>
 
-
-
-> 출처 : 한국데이터산업진흥원 데이터온에어([https://dataonair.or.kr](https://dataonair.or.kr))
+<br><br><br>
+> 출처 : 데이터온에어 – 한국데이터산업진흥원([https://dataonair.or.kr](https://dataonair.or.kr))

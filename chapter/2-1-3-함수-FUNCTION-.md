@@ -1121,6 +1121,5 @@ COALESCE 함수는 인수의 숫자가 한정되어 있지 않으며, 임의의 
 >###### 14 개의 행이 선택되었습니다.
 >
 
-
-
-> 출처 : 한국데이터산업진흥원 데이터온에어([https://dataonair.or.kr](https://dataonair.or.kr))
+<br><br><br>
+> 출처 : 데이터온에어 – 한국데이터산업진흥원([https://dataonair.or.kr](https://dataonair.or.kr))
